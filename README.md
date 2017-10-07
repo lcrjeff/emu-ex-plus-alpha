@@ -7,7 +7,7 @@ I report here his tutorial to help you compiling. For the xcode-projects templat
 
 Roms should be uploaded with iTunes or something else (iMazing, iFunBox) in the Documents folder. 
 
-I took the latest version of Rakashazi's while writing this, and tested with MD.emu and NEO.emu that everything works flawlessly. 
+I took the latest version of Rakashazi's while writing this, and tested with MD.emu, NEO.emu, NES.emu and Snes9x, that everything works flawlessly. 
 Tests taken with iPhone 6S and iPad Air 2 (both on iOS 11) and configured them to work with both Mfi controller (Nimbus Steelseries) and an iCade.
 I also could play with these two joysticks together. Awesome! The only problem I found is that the landscape play is bugged, the view rotates but not in the right way. I'll try to figure it out but any help is appreciated!
 I also tried to Airplay to AppleTV 4th gen and I found no latency at all, always because of Rakashazi's awesome work.
